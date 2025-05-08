@@ -1,1 +1,2 @@
-# Fraud-Detection
+## Credit Card Fraud-Detection
+This project is my final dissertation for my master degree in big data and data science technology. 2 days transactions of credit card dataset from kaggle was used. This project focus on the effectiveness of different sampling methods including Over-sampling, Under-sampling and hybrid sampling methods. Six types of sampling methods were used and 5 machine learning algorithms were tested.
